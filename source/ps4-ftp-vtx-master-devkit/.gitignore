@@ -1,5 +1,0 @@
-build/
-tool/bin2js
-*.bin
-*.js
-*.map
